@@ -1,10 +1,6 @@
 # AWS-Project
 This is a demonstrative AWS application for student data management using RDS and elastic beanstalk.
 
-The end point of my Web server is: http://awsproject1.us-west-1.elasticbeanstalk.com
-
-
-
 The application supports four database operations on student table:<br>
 i.	Add a new student <br>
 ii.	Remove an existing student <br>
